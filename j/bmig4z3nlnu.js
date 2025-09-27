@@ -1,0 +1,1 @@
+import{l as o}from"./2hdmz2kokjv.js";import{t as r}from"./ykz9hdx9at.js";const t=Symbol.for("vuetify:rules");function n(n){var l;const e=o(t,null);if(!n){if(!e)throw new Error("Could not find Vuetify rules injection");return e.aliases}return null!=(l=null==e?void 0:e.resolve(n))?l:r(n)}export{n as u};

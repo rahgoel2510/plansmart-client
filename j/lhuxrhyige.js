@@ -1,0 +1,1 @@
+import{p as o}from"./9mwfi3gkrz.js";const r=o.hasStandardBrowserEnv?((r,t)=>i=>(i=new URL(i,o.origin),r.protocol===i.protocol&&r.host===i.host&&(t||r.port===i.port)))(new URL(o.origin),o.navigator&&/(msie|trident)/i.test(o.navigator.userAgent)):()=>!0;export{r as i};

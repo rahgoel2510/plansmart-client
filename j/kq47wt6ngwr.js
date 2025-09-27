@@ -1,0 +1,1 @@
+var t=Math.pow;const n=.20689655172413793,o=o=>o>t(n,3)?Math.cbrt(o):o/(3*t(n,2))+4/29,r=o=>o>n?t(o,3):3*t(n,2)*(o-4/29);function c(t){const n=o,r=n(t[1]);return[116*r-16,500*(n(t[0]/.95047)-r),200*(r-n(t[2]/1.08883))]}function a(t){const n=r,o=(t[0]+16)/116;return[.95047*n(o+t[1]/500),n(o),1.08883*n(o-t[2]/200)]}export{c as f,a as t};

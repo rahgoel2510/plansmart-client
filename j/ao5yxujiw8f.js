@@ -1,0 +1,1 @@
+import{t as o}from"./evr0p8spq4.js";import{H as t}from"./2hdmz2kokjv.js";function n(o,n){const e=t();if(!e)throw new Error(`[Vuetify] ${o} must be called from inside a setup function`);return e}function e(){const t=n(arguments.length>0&&void 0!==arguments[0]?arguments[0]:"composables").type;return o((null==t?void 0:t.aliasName)||(null==t?void 0:t.name))}export{e as a,n as g};

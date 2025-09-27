@@ -1,0 +1,1 @@
+import{U as o}from"./p0lu82dbgzi.js";import{F as s}from"./lltnt4v70dg.js";import{B as r}from"./zm44o46iown.js";const t={isBrowser:!0,classes:{URLSearchParams:o,FormData:s,Blob:r},protocols:["http","https","file","blob","url","data"]};export{t as p};

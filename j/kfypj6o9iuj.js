@@ -1,0 +1,1 @@
+import{k as o}from"./2hdmz2kokjv.js";import{o as t,e as n}from"./ykz9hdx9at.js";function s(s,l){let i;function m(){i=n(),i.run(()=>l.length?l(()=>{null==i||i.stop(),m()}):l())}o(s,o=>{o&&!i?m():o||(null==i||i.stop(),i=void 0)},{immediate:!0}),t(()=>{null==i||i.stop()})}export{s as u};

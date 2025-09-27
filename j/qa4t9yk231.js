@@ -1,0 +1,1 @@
+import{u as a}from"./74d92cb3vfq.js";import{V as o}from"./vljr9p57aw8.js";const r=a(o,a=>{var o;return{activator:"parent",location:null==(o=a.arg)?void 0:o.replace("-"," "),text:"boolean"==typeof a.value?void 0:a.value}});export{r as T};

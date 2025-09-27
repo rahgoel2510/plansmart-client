@@ -1,0 +1,1 @@
+import{A as r}from"./hm6ykwxaoui.js";import{u as a}from"./q4l1ub1yn4.js";function i(a,i,n){r.call(this,null==a?"canceled":a,r.ERR_CANCELED,i,n),this.name="CanceledError"}a.inherits(i,r,{__CANCEL__:!0});export{i as C};

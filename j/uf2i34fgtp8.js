@@ -1,0 +1,1 @@
+import{m as s,V as r}from"./4lwey5uuctq.js";import{g as o}from"./pphdv0rwcir.js";import{u as p}from"./fcvgdmkoygu.js";import{g as t,m}from"./2hdmz2kokjv.js";const a=o()({name:"VAppBarTitle",props:s(),setup(s,o){let{slots:a}=o;return p(()=>t(r,m(s,{class:"v-app-bar-title"}),a)),{}}});export{a as V};

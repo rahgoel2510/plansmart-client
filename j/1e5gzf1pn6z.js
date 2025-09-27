@@ -1,0 +1,1 @@
+import{u as r}from"./b1453ov6zi.js";import{I as o}from"./c6efdmi47pt.js";import{s}from"./ykz9hdx9at.js";import{q as t}from"./2hdmz2kokjv.js";function m(){if(!o)return s(!1);const{ssr:m}=r();if(m){const r=s(!1);return t(()=>{r.value=!0}),r}return s(!0)}export{m as u};

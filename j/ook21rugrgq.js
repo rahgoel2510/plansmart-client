@@ -1,0 +1,1 @@
+function n(n,r){n=n||10;const t=new Array(n),e=new Array(n);let o,u=0,a=0;return r=void 0!==r?r:1e3,function(c){const i=Date.now(),s=e[a];o||(o=i),t[u]=c,e[u]=i;let f=a,d=0;for(;f!==u;)d+=t[f++],f%=n;if(u=(u+1)%n,u===a&&(a=(a+1)%n),i-o<r)return;const w=s&&i-s;return w?Math.round(1e3*d/w):void 0}}export{n as s};

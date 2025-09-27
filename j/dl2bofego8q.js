@@ -1,0 +1,1 @@
+import{u as r}from"./1e5gzf1pn6z.js";import{d as s}from"./pphdv0rwcir.js";const t=s({name:"VNoSsr",setup(s,t){let{slots:o}=t;const e=r();return()=>{var r;return e.value&&(null==(r=o.default)?void 0:r.call(o))}}});export{t as V};

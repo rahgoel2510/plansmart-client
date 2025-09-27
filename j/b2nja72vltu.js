@@ -1,0 +1,1 @@
+import{p as o}from"./uoxnvm18rld.js";import{s as a,t as e}from"./ykz9hdx9at.js";import{k as t}from"./2hdmz2kokjv.js";const r=o({eager:Boolean},"lazy");function s(o,r){const s=a(!1),n=e(()=>s.value||o.eager||r.value);return t(r,()=>s.value=!0),{isBooted:s,hasContent:n,onAfterLeave:function(){o.eager||(s.value=!1)}}}export{r as m,s as u};

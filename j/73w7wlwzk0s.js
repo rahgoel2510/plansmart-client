@@ -1,0 +1,1 @@
+function o(o){if("function"!=typeof o.getRootNode){for(;o.parentNode;)o=o.parentNode;return o!==document?null:document}const e=o.getRootNode();return e!==document&&e.getRootNode({composed:!0})!==document?null:e}export{o as a};

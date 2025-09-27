@@ -1,0 +1,1 @@
+import{m as t,u as a}from"./rihoc9t3v1.js";import{g as o}from"./pphdv0rwcir.js";const r=o()({name:"VValidation",props:t(),emits:{"update:modelValue":t=>!0},setup(t,o){let{slots:r}=o;const s=a(t,"validation");return()=>{var t;return null==(t=r.default)?void 0:t.call(r,s)}}});export{r as V};

@@ -1,0 +1,1 @@
+import{u as o}from"./q4l1ub1yn4.js";import{d as r}from"./iicc8kycsk.js";import{A as t}from"./dyg0d2hrnp4.js";function s(s,a){const i=this||r,n=a||i,m=t.from(n.headers);let c=n.data;return o.forEach(s,function(o){c=o.call(i,c,m.normalize(),a?a.status:void 0)}),m.normalize(),c}export{s as t};

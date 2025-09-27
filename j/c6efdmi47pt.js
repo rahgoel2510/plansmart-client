@@ -1,0 +1,1 @@
+const n="undefined"!=typeof window,o=n&&"IntersectionObserver"in window,e=n&&("ontouchstart"in window||window.navigator.maxTouchPoints>0),i=n&&"EyeDropper"in window,a=n&&"matchMedia"in window&&"function"==typeof window.matchMedia,t=()=>a&&window.matchMedia("(prefers-reduced-motion: reduce)").matches;export{n as I,t as P,o as S,i as a,e as b,a as c};
